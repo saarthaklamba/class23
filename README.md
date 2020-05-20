@@ -1,2 +1,1 @@
-# class23
-class blueprint
+# Box Class
